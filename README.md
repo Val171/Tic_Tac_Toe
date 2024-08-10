@@ -4,7 +4,8 @@ A basic 2 player tic tac toe game using python.
 
 I haven't added an autochecking mecchanism. 
 
-The win/loss mechanism is quite self explanatory and trivial. Hence it is left to the players to gauge a win/loss.
+The win/loss mechanism is quite self explanatory and trivial, this is also simply a proof of concept.
+Hence it is left to the players to gauge a win/loss.
 
 By default player1 plays as the "cross"(❌) and player2 as "circle"(🟢)
 
